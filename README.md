@@ -1,7 +1,9 @@
 # ds-prob-axioms-labs
 
 Sample space - S is a set of all possible outcomes of an experiment
+
 Event Space - A subset of the sample space, some outcome that we care about 
+
 Probability -> P(E) lim n -> infin n( E)/n
 
 Axioms: 
